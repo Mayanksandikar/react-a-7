@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(10, 10, 8);
+}
+body{
+  
+  background: white;  
+ 
+
+
+}
+
+
+.but-c{
+    
+  border: 1px solid red;
+  width: 250px;
+  font-size: 25px;
+  align-items: center;
+  left: 30px;
+  border-radius: 45px;
+  text-decoration: none;
+  background-color: aqua;
+  margin-left: 30%;
+
+}
+
+.div{
+  display: flex;
+  flex-direction: column;
+  border:2px saddlebrown solid;
+  width: 200px;
+  justify-content: center;
+margin-left: 30%;
+margin-top: 10%;
+background-color: cyan;
+padding: 20px;
+
+}
+.div1{
+  
+font-size: 30px;
+color: blueviolet;
+border: 1px solid red;
+width: 150px;
+
+
+}
+
+.p{
+  font-size: 25px;
+  color: brown;
+  align-items: center;
+  
+
+
+}
